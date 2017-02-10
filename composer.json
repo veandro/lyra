@@ -1,0 +1,20 @@
+{
+    "name": "villagran-studios/lyra",
+    "description": "Simple elegant framework for creating applications",
+    "type": "project",
+    "require": {
+        "symfony/http-foundation": "^3.2"
+    },    
+
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leandro Villagran",
+            "email": "leandro@villagranstudios.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Lyra\\Crux\\": "" }
+    },
+    "minimum-stability": "dev"
+}
