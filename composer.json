@@ -14,7 +14,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "Lyra\\Crux\\": "crux/" }
+        "psr-4": { "Lyra\\Crux\\": "lyra/crux/" }
     },
     "minimum-stability": "dev"
 }
