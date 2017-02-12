@@ -1,10 +1,10 @@
 <?php 
 
-namespace Lyra/Crux;
+namespace Lyra\Crux;
 
 class App {
 
-  public static run() {
+  public static function run() {
     echo "working";
   }
 }
