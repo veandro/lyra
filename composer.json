@@ -2,7 +2,7 @@
     "name": "lyra/crux",
     "description": "Simple elegant framework for creating applications",
     "type": "project",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "require": {
         "symfony/http-foundation": "^3.2"
     },    
